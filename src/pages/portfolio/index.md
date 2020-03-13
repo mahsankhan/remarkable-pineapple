@@ -5,6 +5,6 @@ layout_style: mosaic
 menus:
   main:
     title: ''
-    weight: ''
+    weight: 0
 template: portfolio
 ---
