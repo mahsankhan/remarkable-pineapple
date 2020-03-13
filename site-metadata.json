@@ -3,8 +3,8 @@
   "color_scheme": "dark",
   "accent_color": "blue",
   "header": {
-    "title": "Go4 Emerging Tech Solutions",
-    "has_nav": false
+    "title": "Go4 Emerging Tech Solutions.",
+    "has_nav": true
   },
   "footer": {
     "content": "&copy; Go4 Emerging Tech Solutions (SMC-Private) Limited. All rights reserved.",
