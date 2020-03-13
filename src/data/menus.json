@@ -1,3 +1,22 @@
 {
-  "main": []
+  "main": [
+    {
+      "identifier": "Home",
+      "title": "Home",
+      "url": "home",
+      "weight": 1
+    },
+    {
+      "identifier": "About",
+      "title": "About",
+      "url": "About",
+      "weight": 2
+    },
+    {
+      "identifier": "Contact",
+      "title": "Contac",
+      "url": "Contact",
+      "weight": 3
+    }
+  ]
 }
