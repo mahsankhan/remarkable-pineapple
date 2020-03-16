@@ -5,10 +5,12 @@ sections:
     title: Start. Accelerate. And Grow with Emerging Technologies
     section_id: hero
     component: HeroBlock
-    content: |-
+    content: >-
       ## *FinTech, GovTech, RegTech, HealthTech, InsurTech And More.*
 
-      ### Strategic Consultancy, Solutions, Research & Development.
+
+      ### Strategic Consultancy, Solutions, Research & Development, Deployment &
+      Customer Success
   - type: servicesblock
     title: What We Do
     section_id: services
