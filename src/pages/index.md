@@ -8,7 +8,7 @@ sections:
     content: |-
       ## *FinTech, GovTech, RegTech, HealthTech, InsurTech And More.*
 
-      ### Consultancy, Innovation, Development, Deployments...
+      ### Cloud, Artificial Intelligence, Blockchain, Internet of Things...
   - type: servicesblock
     title: What We Do
     section_id: services
