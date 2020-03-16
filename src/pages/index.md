@@ -8,7 +8,7 @@ sections:
     content: |-
       ## *FinTech, GovTech, RegTech, HealthTech, InsurTech And More.*
 
-      ### Consultancy, Research, Developement, Deployments, Support.
+      ### Consultancy, Innovation, Developement, Deployments...
   - type: servicesblock
     title: What We Do
     section_id: services
