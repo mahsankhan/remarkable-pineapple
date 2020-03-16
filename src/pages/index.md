@@ -8,7 +8,7 @@ sections:
     content: |-
       ## *FinTech, GovTech, RegTech, HealthTech, InsurTech And More.*
 
-      ### Consultancy, Innovation, Developement, Deployments...
+      ### Consultancy, Innovation, Development, Deployments...
   - type: servicesblock
     title: What We Do
     section_id: services
@@ -20,12 +20,12 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla tortor at, pulvinar orci.
-      - title: Solutions Design & Development
+      - title: Design & Development
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius. 
-      - title: Solution Deployment & Customer Success
+      - title: Deployment & Customer Success
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
