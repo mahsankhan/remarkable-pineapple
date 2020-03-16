@@ -6,9 +6,9 @@ sections:
     section_id: hero
     component: HeroBlock
     content: |-
-      ## Strategic Consultancy, Solutions, Research & Developments.
+      ## *FinTech, GovTech, RegTech, HealthTech, InsurTech And More.*
 
-      ### FinTech, GovTech, RegTech, HealthTech, InsurTech and more.
+      ### Strategic Consultancy, Solutions, Research & Development.
   - type: servicesblock
     title: What We Do
     section_id: services
