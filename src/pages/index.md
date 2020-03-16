@@ -5,9 +5,10 @@ sections:
     title: 'Emerging Technologies '
     section_id: hero
     component: HeroBlock
-    content: >-
-      Strategic Consultancy, Business Solutions, Research & Developments around
-      Emerging Technologies for
+    content: |-
+      Strategic Consultancy, Solutions, Research & Developments.
+
+      FinTech, GovTech, RegTech, HealthTech, InsurTech and more.
   - type: servicesblock
     title: What We Do
     section_id: services
