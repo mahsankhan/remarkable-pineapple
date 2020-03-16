@@ -7,7 +7,7 @@ sections:
     component: HeroBlock
     content: >-
       Strategic Consultancy, Business Solutions, Research & Developments around
-      Emerging Technologies
+      Emerging Technologies for
   - type: servicesblock
     title: What We Do
     section_id: services
