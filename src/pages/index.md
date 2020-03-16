@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Emerging Technologies '
     section_id: hero
     component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Strategic Consultancy, Business Solutions, Research & Developments around
+      Emerging Technologies
   - type: servicesblock
     title: What We Do
     section_id: services
