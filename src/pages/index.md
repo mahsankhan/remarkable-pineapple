@@ -28,8 +28,11 @@ sections:
           to support the business growth.
       - title: Deployment & Customer Success
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          In the 'age of the customer', the key to business growth is customer
+          success and happiness. Customer success can be ensured not just
+          through delivery of right products and services. Successful customer
+          deployment, extensive training and technical support also contribute
+          towards customer success.
       - title: Innovation & Commercialization
         content: >-
           Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
