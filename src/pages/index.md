@@ -23,9 +23,9 @@ sections:
           business.
       - title: Design & Development
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
+          From PoC designing to the solution development, we help companies to
+          focus on business operations while we take care thier technology needs
+          to support the business growth.
       - title: Deployment & Customer Success
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
