@@ -17,9 +17,10 @@ sections:
     serviceslist:
       - title: Strategic Consultancy
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Our technology consulting services help you steer your transformation
+          with the latest technology, design thinking and agility, while also
+          energizing your legacy systems—at a pace that’s right for your
+          business.
       - title: Design & Development
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
